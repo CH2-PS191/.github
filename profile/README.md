@@ -10,14 +10,14 @@ EMPAQ is an app that utilize Artificial Intelligence to provide a chatbot for pe
 * Team ID: CH2-PS191
 * Team Members:
 
-| Name                       | Bangkit ID  | Learning Path      |
-| ---------------------------| ----------- | ------------------ |
-| Eko Rachmat Satriyo        | M179BSY0661 | Machine Learning   |
-| Adhika Nugraha Ali         | M179BSY0945 | Machine Learning   |
-| Faza Denandra              | C297BSY3463 | Cloud Computing    |
-| Yeheskiel Pambuko Aji      | C297BSY3354 | Cloud Computing    |
-| Anugerah Ramadhan          | A272BSY2718 | Mobile Development |
-| Ahmad Hanif Habib Annafi   | A297BSY2636 | Mobile Development |
+| Name                       | Bangkit ID  | Learning Path      | LinkedIn |
+| ---------------------------| ----------- | ------------------ | -------- |
+| Eko Rachmat Satriyo        | M179BSY0661 | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eko-rachmat-satriyo-b74b65288/) |
+| Adhika Nugraha Ali         | M179BSY0945 | Machine Learning   | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adhika-nugraha-ali-425a83295) |
+| Faza Denandra              | C297BSY3463 | Cloud Computing    | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazadenandra/) |
+| Yeheskiel Pambuko Aji      | C297BSY3354 | Cloud Computing    | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeheskiel-pambuko-aji/) |
+| Anugerah Ramadhan          | A272BSY2718 | Mobile Development | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugerah-r/) |
+| Ahmad Hanif Habib Annafi   | A297BSY2636 | Mobile Development | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() |
 
 ## Repositories
 * [Machine Learning](https://github.com/CH2-PS191/ml-ch2-ps191)
