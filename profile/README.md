@@ -17,6 +17,7 @@ EMPAQ is an app that utilize Artificial Intelligence to provide a chatbot for pe
 | Faza Denandra              | C297BSY3463 | Cloud Computing    |
 | Yeheskiel Pambuko Aji      | C297BSY3354 | Cloud Computing    |
 | Anugerah Ramadhan          | A272BSY2718 | Mobile Development |
+| Ahmad Hanif Habib Annafi   | A297BSY2636 | Mobile Development |
 
 ## Repositories
 * [Machine Learning](https://github.com/CH2-PS191/ml-ch2-ps191)
